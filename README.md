@@ -5,4 +5,4 @@ Projet 3il - Sudoku en C
 
 ABOUGOU Koth Richard
 ALAMI Ismail
-GHERRISSI Ahmed
+GHERRISSI Ahmed j'ai modifié
