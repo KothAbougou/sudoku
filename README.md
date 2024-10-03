@@ -14,6 +14,6 @@ GHERRISSI Ahmed
 gcc -Wall main.c -o sudoku
 
 # Run le jeu avec VS CODE
-./sudoku
+./sudok
 ```
 ___
